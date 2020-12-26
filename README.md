@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Freenom：freenom域名自动续期</h1>
-
+我也真的是醉了
 [![Build Status](https://img.shields.io/badge/build-passed-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/build-status/master)
 [![Php Version](https://img.shields.io/badge/php-%3E=7.2-brightgreen.svg?style=for-the-badge)](https://secure.php.net/)
 [![Scrutinizer Code Quality](https://img.shields.io/badge/scrutinizer-9.31-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/?branch=master)
@@ -136,7 +136,7 @@ Telegram bot 有两个配置项，一个是`chatID`（对应`.env`文件中的`T
 通过使用你的 Telegram 账户发送`/start`给`@userinfobot`即可以获取自己的id，
 另一个是`token`（对应`.env`文件中的`TELEGRAM_BOT_TOKEN`），你的 Telegram bot 令牌，你会创建 Telegram bot 就知道怎么获取，
 不多赘述。如何创建一个 Telegram bot 请参考：[官方文档](https://core.telegram.org/bots#6-botfather)
-
+以后不想改了
 ***
 
 *与通知相关的设置到此就完成了，下面可以愉快的配置本程序了* :)
